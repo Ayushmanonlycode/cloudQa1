@@ -29,7 +29,7 @@ Automated fields:
 - Visual Studio 2022
 - Page Object Model (POM)
 
----
+```
 
 ## 📁 Project Structure
 
@@ -46,7 +46,7 @@ CloudQA.AutomationTests/
 │
 ├── 📄 CloudQA.AutomationTests.csproj # .NET 8 project definition
 └── 📄 README.md # Project documentation
----
+```
 
 ## 🧪 How to Run the Tests (Step-by-Step)
 
@@ -78,13 +78,6 @@ Select the Gender radio option
 
 Close browser
 
-🛡 Why The Locators Are Stable
-
-✔ Uses text-based selectors instead of IDs
-✔ Avoids fragile attributes (id, class, name)
-✔ Avoids absolute or index-based XPaths
-✔ Uses semantic selectors (label text, relative input, radio value)
-✔ Works even if positions or HTML markup change
 
 This ensures long-term test reliability.
 
