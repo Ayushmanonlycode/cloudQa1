@@ -32,19 +32,20 @@ Automated fields:
 ---
 
 ## 📁 Project Structure
+
 CloudQA.AutomationTests/
 │
-├── Drivers/
-│ └── WebDriverFactory.cs
+├── 📂 Drivers/
+│ └── WebDriverFactory.cs # Selenium WebDriver setup
 │
-├── Pages/
-│ └── AutomationPracticeFormPage.cs
+├── 📂 Pages/
+│ └── AutomationPracticeFormPage.cs # Page Object Model (POM) for CloudQA form
 │
-├── Tests/
-│ └── FormTests.cs
+├── 📂 Tests/
+│ └── FormTests.cs # NUnit test cases (3 fields automated)
 │
-└── CloudQA.AutomationTests.csproj
-
+├── 📄 CloudQA.AutomationTests.csproj # .NET 8 project definition
+└── 📄 README.md # Project documentation
 ---
 
 ## 🧪 How to Run the Tests (Step-by-Step)
@@ -54,7 +55,7 @@ CloudQA.AutomationTests/
 git clone https://github.com/<your-username>/CloudQA-Automation-Tests.git
 cd CloudQA-Automation-Tests
 ```
-###2️⃣ Open in Visual Studio 2022
+2️⃣ Open in Visual Studio 2022
 
 Restore NuGet packages
 
@@ -62,7 +63,7 @@ Build → Rebuild Solution
 
 Open Test Explorer → Run All
 
-###3️⃣ Run Using Command Line
+3️⃣ Run Using Command Line
 dotnet restore
 dotnet build
 dotnet test
