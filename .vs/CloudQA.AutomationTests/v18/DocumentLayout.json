@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayush\\Downloads\\CloudQA_Automation_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4ADC1E-4017-8216-6D10-167370CB1751}|CloudQA.AutomationTests.csproj|c:\\users\\ayush\\downloads\\cloudqa_automation_project\\tests\\formtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4ADC1E-4017-8216-6D10-167370CB1751}|CloudQA.AutomationTests.csproj|solutionrelative:tests\\formtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4ADC1E-4017-8216-6D10-167370CB1751}|CloudQA.AutomationTests.csproj|c:\\users\\ayush\\downloads\\cloudqa_automation_project\\pages\\automationpracticeformpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4ADC1E-4017-8216-6D10-167370CB1751}|CloudQA.AutomationTests.csproj|solutionrelative:pages\\automationpracticeformpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTests.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\Downloads\\CloudQA_Automation_Project\\Tests\\FormTests.cs",
+              "RelativeDocumentMoniker": "Tests\\FormTests.cs",
+              "ToolTip": "C:\\Users\\ayush\\Downloads\\CloudQA_Automation_Project\\Tests\\FormTests.cs",
+              "RelativeToolTip": "Tests\\FormTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:22:14.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomationPracticeFormPage.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\Downloads\\CloudQA_Automation_Project\\Pages\\AutomationPracticeFormPage.cs",
+              "RelativeDocumentMoniker": "Pages\\AutomationPracticeFormPage.cs",
+              "ToolTip": "C:\\Users\\ayush\\Downloads\\CloudQA_Automation_Project\\Pages\\AutomationPracticeFormPage.cs",
+              "RelativeToolTip": "Pages\\AutomationPracticeFormPage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAxwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:20:32.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
